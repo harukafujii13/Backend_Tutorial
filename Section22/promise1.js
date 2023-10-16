@@ -45,3 +45,5 @@ promise
 
 //The Promise.all() method takes an array of promises and returns a new promise that resolves when all of the promises have resolved. In this case, after 3 seconds, it will log the resolved values of all promises in an array:
 //["Stuff Worked", "HIII", "POOOKIE", "Is it me you are looking for?"].
+
+//test
