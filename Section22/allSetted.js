@@ -7,3 +7,4 @@ Promise.allSettled([promiseOne, promiseTwo])
   .catch((e) => console.log("something failed"), e);
 
 //allSetted
+//allSetted()
