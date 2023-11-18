@@ -11,7 +11,4 @@ function send(url, data) {
 
 // console.log(module);
 
-module.exports = {
-  REQUEST_TIMEOUT,
-  send,
-};
+export { REQUEST_TIMEOUT, send };
