@@ -6,9 +6,7 @@ function read() {
   return decrypt("data");
 }
 
-module.exports = {
-  read,
-};
+export { read };
 
 //Function decrypt(data):
 //This function is a placeholder for a decryption algorithm. It takes data as an argument and returns a string "decrypted data".
