@@ -8,3 +8,5 @@ function makeRequest(url, data) {
 
 const responseData = makeRequest("https://google.com", "hello");
 console.log(responseData);
+
+//These lines import the send function from a request module and the read function from a response module.
